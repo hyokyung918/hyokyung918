@@ -5,6 +5,3 @@
 <img  src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=for-the-badge"> <img  src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobeillustrator&logoColor=fff&style=for-the-badge">
 
 <img  src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rosa0000918">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyokyung918)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyokyung918&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
